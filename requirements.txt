@@ -1,0 +1,14 @@
+anthropic>=2.4.0
+python-dotenv>=1.2
+numpy>=2.0
+sounddevice>=0.5
+faster-whisper>=1.2
+openwakeword>=0.6
+pyautogui>=0.9.54
+pillow>=11.0
+ollama>=0.6
+kokoro-onnx>=0.6
+ddgs>=9.0
+httpx>=0.28
+lxml>=5.0
+pyobjc-framework-ApplicationServices>=11.0
